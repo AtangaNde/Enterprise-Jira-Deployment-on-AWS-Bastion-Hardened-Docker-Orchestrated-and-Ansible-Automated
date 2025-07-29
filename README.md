@@ -265,3 +265,5 @@ ssh control
 ✅ Modular deployment using Docker and Ansible
 
 ✅ No public IPs on application servers
+
+https://docs.google.com/document/d/1BWTS9oJ4VojQMKNX8cBVSJBzQj73K5BngprIdJcRxCY/edit?usp=sharing
